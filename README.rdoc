@@ -1,0 +1,7 @@
+= Spell
+
+This is a week-end hack to spell words using the Nato phonetic alphabet. It also shows how to store wav files in memory for manipulation and combination.
+
+For more info, please read this blog post:
+
+http://www.lunar-ocean.com/2011/11/11/spelling-correctly.html
